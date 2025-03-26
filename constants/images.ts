@@ -6,5 +6,8 @@ export const images = {
     clipPort: require("@/assets/images/clipPort.png"),
     shareIcon: require("@/assets/images/shareIcon.png"),
     avatar: require("@/assets/images/avatar.png"),
-    coverImage: require("@/assets/images/coverImage.png")
+    coverImage: require("@/assets/images/coverImage.png"),
+    womenProfile: require("@/assets/images/womenProfile.png"),
+    menProfile: require("@/assets/images/menProfile.png"),
+    alvo: require("@/assets/images/alvo.png")
 }
