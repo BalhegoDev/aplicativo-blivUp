@@ -9,5 +9,9 @@ export const images = {
     coverImage: require("@/assets/images/coverImage.png"),
     womenProfile: require("@/assets/images/womenProfile.png"),
     menProfile: require("@/assets/images/menProfile.png"),
-    alvo: require("@/assets/images/alvo.png")
+    alvo: require("@/assets/images/alvo.png"),
+    clipBoard: require("@/assets/images/clipboard-list.png"),
+    grid: require("@/assets/images/grid.png"),
+    info: require("@/assets/images/info.png"),
+    lock: require("@/assets/images/Lock.png")
 }
