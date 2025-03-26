@@ -4,7 +4,7 @@ import { ActionIcon as ActionInterface } from "@/interfaces/actionIcon.interface
 
 export default function ActionIcon({ image, borderColor, marginBottom }: ActionInterface) {
   return (
-    <View className="flex flex-col items-center w-full justify-start">
+    <View className="flex flex-col items-center w-1/4 justify-start">
       <Image
         source={image}
         style={{

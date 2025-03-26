@@ -12,7 +12,7 @@ export default function Index() {
         profileImage={images.avatar}
         backgroundImage={images.coverImage}
       />
-      <View className="w-5/6 m-auto mt-5">
+      <View className="w-5/6 m-auto mt-12">
         <View>
           <Text className="text-2xl">Ferrari</Text>
           <Text className="text-linkColor font-bold">@ferrari_ca</Text>
@@ -117,7 +117,7 @@ export default function Index() {
             borderColor="gray"
           />
         </View>
-        <View className="flex flex-col items-center mt-5">
+        <View className="flex flex-col items-center mt-3">
           <Image
             source={images.lock}
           />
